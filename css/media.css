@@ -1,0 +1,52 @@
+@media(max-width: 500px){
+    .container{
+        width: 90%;
+        text-align: center;
+    }
+}
+@media(max-width: 500px){
+    .container-2{
+        width: 90%;
+       display: flex;
+       justify-content: center;
+       flex-direction: column;
+       
+     
+    }
+}
+@media(max-width: 500px){
+    .container-3{
+        width: 90%;
+       
+       text-align: center;
+       
+     
+    }
+}
+@media(max-width: 500px){
+    .maindiv {
+        width: 90%;
+       display: flex;
+       flex-direction: column;
+       text-align: center;
+       
+       
+     
+    }
+}
+@media(max-width: 500px){
+    .maindiv h1,p  {
+        
+      margin-top: 30px;
+     
+    }
+}
+@media(max-width: 500px){
+    footer {
+        height: 900px;
+      
+       
+       
+     
+    }
+}
